@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 
 # 加密貨幣簡易查詢機器人
 ![Static Badge](https://img.shields.io/badge/Node-v18.20.2-blue) 
